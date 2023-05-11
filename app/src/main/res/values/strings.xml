@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LokaliseTesting</string>
+    <string name="login_to_complete_payment">Login to complete payment</string>
+</resources>
